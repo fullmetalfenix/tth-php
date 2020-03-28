@@ -3,8 +3,9 @@ $pageTitle = "Suggest a Media Item";
 $section = "suggest";
 include("inc/header.php"); ?>
 
-<div>
-    <h1>Suggest A Media Item</h1>
+
+<div style="min-height: 500px; display: flex; justify-content: center; align-items: center">
+    <h2>Comming Soon.</h2>
 </div>
 
 
